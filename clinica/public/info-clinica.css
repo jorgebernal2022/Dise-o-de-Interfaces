@@ -1,0 +1,150 @@
+img.img5{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 150px;
+    top: 89%;
+    right: 20%;
+}
+
+img.img6{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 700px;
+    top: 89%;
+}
+
+img.img7{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1100px;
+    top: 90%;
+}
+
+img.img8{
+    position: absolute;
+    left: 613px;
+    width: 213px;
+    right: 42.64%;
+    top: 10px;
+}
+
+img.img9{
+    position: absolute;
+    left: 120x;
+    width: 120px;
+    right: 82%;
+    top: 254px;
+}
+
+img.img10{
+    position: absolute;
+    left: 120x;
+    width: 120px;
+    right: 50%;
+    top: 254px;
+}
+
+img.img11{
+    position: absolute;
+    left: 120x;
+    width: 120px;
+    right: 23%;
+    top: 254px;
+}
+
+img.img12{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 106px;
+    top: 400px;
+    right: 1000px;
+}
+
+img.img13{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 594px;
+    top: 400px;
+}
+
+img.img14{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1015px;
+    top: 400px;
+}
+
+img.img15{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 106px;
+    top: 400px;
+    right: 1000px;
+}
+
+img.img16{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 594px;
+    top: 400px;
+}
+
+img.img17{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1015px;
+    top: 400px;
+}
+
+
+.home{
+    background-color: chocolate;
+    border: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    margin: 10px 10px;
+    cursor: pointer;
+    position:absolute;
+    top: 90%;
+    right: 80%;
+    
+}
+
+.user{
+    background-color: chocolate;
+    border: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    margin: 10px 10px;
+    cursor: pointer;
+    position:absolute;
+    top: 90%;
+    right: 44%;
+}
+
+.ser{
+    background-color: chocolate;
+    border: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    margin: 10px 10px;
+    cursor: pointer;
+    position:absolute;
+    top: 90%;
+    right: 10%;
+}
