@@ -11,7 +11,7 @@ img.img6{
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 700px;
+    left: 650px;
     top: 89%;
 }
 
@@ -25,7 +25,7 @@ img.img7{
 
 img.img8{
     position: absolute;
-    left: 613px;
+    left: 650px;
     width: 213px;
     right: 42.64%;
     top: 10px;
@@ -35,7 +35,7 @@ img.img9{
     position: absolute;
     left: 120x;
     width: 120px;
-    right: 82%;
+    right: 80%;
     top: 254px;
 }
 
@@ -43,7 +43,7 @@ img.img10{
     position: absolute;
     left: 120x;
     width: 120px;
-    right: 50%;
+    right: 47%;
     top: 254px;
 }
 
@@ -51,7 +51,7 @@ img.img11{
     position: absolute;
     left: 120x;
     width: 120px;
-    right: 23%;
+    right: 14%;
     top: 254px;
 }
 
@@ -59,7 +59,7 @@ img.img12{
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 106px;
+    left: 150px;
     top: 400px;
     right: 1000px;
 }
@@ -68,7 +68,7 @@ img.img13{
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 594px;
+    left: 650px;
     top: 400px;
 }
 
@@ -76,7 +76,7 @@ img.img14{
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 1015px;
+    left: 1150px;
     top: 400px;
 }
 
@@ -84,7 +84,7 @@ img.img15{
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 106px;
+    left: 150px;
     top: 400px;
     right: 1000px;
 }
@@ -93,7 +93,7 @@ img.img16{
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 594px;
+    left: 650px;
     top: 400px;
 }
 
@@ -101,7 +101,7 @@ img.img17{
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 1015px;
+    left: 1150px;
     top: 400px;
 }
 
@@ -132,7 +132,7 @@ img.img17{
     cursor: pointer;
     position:absolute;
     top: 90%;
-    right: 44%;
+    right: 47%;
 }
 
 .ser{
